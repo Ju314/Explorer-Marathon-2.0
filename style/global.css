@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-size: 62.5%; /* 1 rem = 10 px */
+}
+
+body,
+input,
+button {
+  font-size: 1.6rem;
+  font-family: 'Roboto', sans-serif;
+
+  -webkit-font-smoothing: antialiased;
+}
+
+body img {
+  height: 15rem;
+  border-radius: 90rem;
+}
+
+body ul li img {
+  height: 5rem;
+}
